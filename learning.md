@@ -1,24 +1,24 @@
-#New Things Learned  
-##Font  
+# New Things Learned  
+## Font  
 Let's **pretty up** things.  
 Sometimes _cursive_.  
-Sometimes ~~~wrong~~ so we need to clarify that ***this is right***.
+Sometimes ~~wrong~~ so we need to clarify that ***this is right***.
   
-###Textline  
+### Textline  
 Can't think of a situation that's not math where I'll need <sub>this</sub> or <sup>that</sup>.  
   
-###Quoting  
+### Quoting  
 > Only I Can Call My Dream Stupid  
   
-##Visuals
-###Codes  
+## Visuals  
+### Codes  
 Some bash codes  
 ```
 git status
 git log
-´´´
+```
   
-###Lists  
+### Lists  
 - Item1
 - Item2
 - Item3
@@ -30,7 +30,7 @@ git log
 [x] done
 [ ] not done  
   
-##Smileys  
+## Smileys  
 :+1: :smile: :shipit:
 
 
