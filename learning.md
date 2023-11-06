@@ -27,7 +27,7 @@ git log
 2. Item2
 3. Item3
   
-[x] done
+[x] done  
 [ ] not done  
   
 ## Smileys  
